@@ -1,0 +1,7 @@
+{
+  "title": "Article title",
+  "author": "John Doe",
+  "date": "September 11",
+  "image": true,
+  "tags": ["#drupal", "#bootstrap", "#web"]
+}
